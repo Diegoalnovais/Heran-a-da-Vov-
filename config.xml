@@ -9,4 +9,11 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+
+<platform name="android">
+    <preference name="AndroidLaunchMode" value="singleTop"/>
+    <preference name="android-minSdkVersion" value="26" />
+    
+</platform>
+
 </widget>
