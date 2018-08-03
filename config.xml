@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.diegonovais.herancadavovo" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.diegonovais.herancadavovo" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Herança da Vovó</name>
     <description>
         A blank PhoneGap app.
@@ -12,7 +12,7 @@
 
 <platform name="android">
     <preference name="AndroidLaunchMode" value="singleTop"/>
-    <preference name="android-minSdkVersion" value="24" />
+    <preference name="android-minSdkVersion" value="14" />
     <icon src="icon.png"/>
     
 </platform>
